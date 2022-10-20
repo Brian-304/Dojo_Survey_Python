@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex-container {
+    background-color: #33393e;
+    color: #e4af10;
+    padding: 40px;
+    width: 600px;
+}
+
+.form-label {
+    color: white;
+}
+
+.dojo_location {
+    color: white;
+}
+
+.favorite_language {
+    color: white;
+}
+
+.comments {
+    color: white;
+}
+
+.btn_btn-success {
+    background-color: #e4af10;
+    color: white;
+    border: 0;
+    font-size: small;
+    padding: 2px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
